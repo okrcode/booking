@@ -1,0 +1,3273 @@
+[
+    {
+        "source_url": "https://www.booking.com/hotel/us/la-quinta-inn-san-francisco-airport-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=42869709_262171290_2_1_0&highlighted_blocks=42869709_262171290_2_1_0&matching_block_id=42869709_262171290_2_1_0&sr_pri_blocks=42869709_262171290_2_1_0__10115&from=searchresults&selected_currency=USD",
+        "hotel_name": "La Quinta by Wyndham San Francisco Airport North - Free Airport Shuttle",
+        "hotel_id": "428697",
+        "latitude": "37.6506098",
+        "longitude": "-122.4075437",
+        "address": "20 Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262118177.jpg?k=2b74a7fc313822fb2e71d2f4c2f1eff8ae43607052c9454003056346f32215c3&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Queen Room with Two Queen Beds - North Building - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$101",
+                        "max_persons": 2,
+                        "raw_price": 101,
+                        "raw_price_tax": 18,
+                        "total_price": 119
+                    },
+                    {
+                        "price": "US$119",
+                        "max_persons": 2,
+                        "raw_price": 119,
+                        "raw_price_tax": 20,
+                        "total_price": 139
+                    },
+                    {
+                        "price": "US$110",
+                        "max_persons": 3,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 3,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    },
+                    {
+                        "price": "US$118",
+                        "max_persons": 4,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    },
+                    {
+                        "price": "US$139",
+                        "max_persons": 4,
+                        "raw_price": 139,
+                        "raw_price_tax": 23,
+                        "total_price": 162
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 2,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    },
+                    {
+                        "price": "US$118",
+                        "max_persons": 3,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    },
+                    {
+                        "price": "US$139",
+                        "max_persons": 3,
+                        "raw_price": 139,
+                        "raw_price_tax": 23,
+                        "total_price": 162
+                    },
+                    {
+                        "price": "US$127",
+                        "max_persons": 4,
+                        "raw_price": 127,
+                        "raw_price_tax": 21,
+                        "total_price": 148
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 4,
+                        "raw_price": 149,
+                        "raw_price_tax": 25,
+                        "total_price": 174
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$122",
+                        "max_persons": 2,
+                        "raw_price": 122,
+                        "raw_price_tax": 21,
+                        "total_price": 143
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 2,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    },
+                    {
+                        "price": "US$118",
+                        "max_persons": 3,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    },
+                    {
+                        "price": "US$139",
+                        "max_persons": 3,
+                        "raw_price": 139,
+                        "raw_price_tax": 23,
+                        "total_price": 162
+                    },
+                    {
+                        "price": "US$127",
+                        "max_persons": 4,
+                        "raw_price": 127,
+                        "raw_price_tax": 21,
+                        "total_price": 148
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 4,
+                        "raw_price": 149,
+                        "raw_price_tax": 25,
+                        "total_price": 174
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$122",
+                        "max_persons": 2,
+                        "raw_price": 122,
+                        "raw_price_tax": 21,
+                        "total_price": 143
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    }
+                ]
+            },
+            {
+                "room_type": "Suite with Three Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$161",
+                        "max_persons": 4,
+                        "raw_price": 161,
+                        "raw_price_tax": 27,
+                        "total_price": 188
+                    },
+                    {
+                        "price": "US$189",
+                        "max_persons": 4,
+                        "raw_price": 189,
+                        "raw_price_tax": 31,
+                        "total_price": 220
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 101
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/hotel-e-grand-ave-south-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=48912103_333457411_2_1_0&highlighted_blocks=48912103_333457411_2_1_0&matching_block_id=48912103_333457411_2_1_0&sr_pri_blocks=48912103_333457411_2_1_0__11820&nad_id=35c5cf10-4ecc-43aa-8054-1aa6a51a7a21_0&nad_cpc=2.42&nad_track=eyJhdWN0aW9uRXBvY2giOjE3MzQ2MDAwNzYwNzMsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoieW0vZHNsR2NGaEpRVjlrcHVXdGFsSEM5NW0raW1iZjUyUUR3c2liR1IrdGZGaWJla1hFUXZDMnZwcVdLMklRS2tVU2oyeGxPdS9wNnpzSUIzL2lXdHFVN2NlYWNGREJIeVRmWUVWK3NMODdZVi85ZVZrZERjSmNWbXcvOHBydFJFa3NtTStMVTR2MlExMmpBR2NDSE9MSzJQTUZqRnBWbm81VThpZDQ2c1pQVnRXSkdpaTUvREZtTkYyT1g5YmpoQzl1VTUvZEtrUU84OTk2NGcrVnhNZkhFWEIwRWlaeEhScFdHbUJHayt6eHBOaHl0UWFHK25WZHJqcVJRNjl6L01OUERIcGF4RUpoejhoQmtmVUZKQTVmdFZhWHNjTTRMOThtRERDaDlKMmNGSDZIY0FUcjg1N0pQamJUMGF6NW5PY1ppR1NuUVZ0WExsekJHUXY3Z0Z0MWdHQ0ZKVEJaamF3MDN2UFlkNlhMZ2JGTG1vQ3pYMktqY09HbzA1MmRzMHJaK2dGN1k1a090WExoOHBHNUs5U2pmZy83RGR0RlgvMWZoUmtQRnN3OWM5M0RxWXpkZEpaQWVPbWViT0F5WE9SazBveDVtemhmNURSWEFra0tTTnNUUkJCWmFQOFIxcnNwa0MzWHc5K3BLUnJGajhMa2tzRHpVNlVMU2JkcytJaDhGOXpyYXBhbHlJTDlQQ1NGM00rc3Z4VWJnUEhXZjNkUy9UZHFqckl6WFJWZGNPUWhtTkFkcFRnNGR5dmdiQmsxVTVWRWNla05ZODRidjA1cHBVTWUvL2FFKy85Q25TeEJ2L3RxU1g3Z2hQeElheS8zbHJ3UDZleHQvalNuZGNBaTVFWDU3TG0xdGZXK2xYd2l1QUd0YmhndkpCUnM0aERYTHlHenlBRElJaWpUbGlwZ1NHRTZxNmNjQW15NDJZcFhBYmc0Rk5TMVA5UzdWOVo0MC93b1ltZU1BU09EY1hUYVBPcVVObmNZc0srM2ZNMmlKN3NucXBtR0hrZ3VSTTJDTEhiL2E1QzZmc0g3RkNuZnJ6QlM3dW4rY00rcmliRWZIN0pqTitUQUpObW8zQnNJMzB3TDBxQ1ljbmhhODdBWE00MUREeVQ1NEovZVdmWnJ1TGt5NFJsSldLOUh3SFZHeXBDR0xhTDMzSEpZWTZDWm82WmpGYnpBczFqNlBUOTBzWktJK2tVVjVwT3pSUytZYTE3SWFtbTVSQnpNdVpxd0ZKaVJqSlFleFB1NUZ5SFFDeGVvZTBnQnRpYmZsMDlTYjlLdDRYRWpmRVgwSjdzaXlUT0x5ZW5QZHpRaUxkS3A2TDFubmoxWEtldUl5OW8xaDIxVlNQZ2dGNmNlcHRvL3d1Z25PUlp2dGNYRTlGWVVzWlZQN3NiNjlNUmtCRElSVEcxc2RoZWM0UFVnKzgvZDRCWUEvU3NCVFlER2twdXBVVjZWL0ZwdjVkSUhES2hVV2d5MXZRTkVZTlljdWV3amV1Nk9qelNXSCt5dy9kUDQ0ZmZ3eVdGTGVScG5wN0xGSlVrSkd2Mk9TMjBGK0JudWVtNXlwTkFZY1dlWHJKczZZRXRTaW9WMkErWS9JTDZEY3c1Q1JsbXBDWWV0cFE4Y1VUaWZydGJ6c0ltQnZjLzVJeUgwZ1lNWTYveGx1bnhQRnRjcUNpM0F4M0MxOHpjU2xTVU1VZDRNdjAvZjNud0JJMXg0Q0RmbkdjcWR4amdKQlJzeFU1QUhUTzkrRDMxanIwblI2TUJEVFJ2V3pkVGNsWExkRTRGZkVMRkRqcW8zakZOU0pIS1E0dlF0d1NRQTlEQXJVQ1pBRlcxNWdPdlBZOGZnZHFzY1pwTmxBTmRiV0RwTEdPcnA2dGlLNFdScCs4ZHhCbDZrUFJ3VHZsRnFwTERic3g2V1k5cllnMWxVdGJvR3gzSmM2N0hXWTBrUmVVdGtWTURIckpJaWcxR09Lb1k0alJPdGs5ZUpBZUVZZkp0ZGd6cU1pamtzcVU2Qko2N0hacDIrRHk4amY0d1JNbGpWalpGdzRRUnRudnYzVFN1TGhiVDVJNytOekpqeGYrN3dqOVJXOExHVm1ERGNtYnJORWgzSGExZE1Jc1lnNi9TU0RyY2ZYSjMwTE04Y2hQWFdxcXpwOHE4VXJJMEEvek5qeTRwWTJOelRmWStyb2xSd1NtNWhSQ3gvY1ZVQ1hYNnQ5NnF5RmxHTEJWcHhTRnBZb3lnZ2hvZTNhSG1HaFVvWEdCT09tL1ZtaDFHUkRzVFZ3ZEtEZTJiTk1TT3lIV2hTWDFUc1VDNUduT3dPS1JjMGxsYTI5S2xTU04rSVFYaHhnRHBsQnVzYVphTlVWcnE0K0Z2d0VpRWIySWNlejkrdTh3TElHRjMwZkZjUVFuNFdQK3NUc0d6a1RPZHZNTFhJVjN4NGgrUWVUeDJLUGZaVFNXdEJpdUhROWVtV0pqbHBZNFJpSGEwUWkxaVJOTDdINzZtV3JzNGRuTSsyZG5YYUtCK2NZM0NIaEVxRmEzMWtZRFBiLzBERElUaFJtTlhSRVBnZEJ5dXNnWVJWdkRlSkpxTW9kdmN6WVgvRVBCNHNIQ0FVNmp0d0pZVjA0MWpIUnlBNGNBQW11STZHUGg2V3JQNmZmaWEwS3k0MGlOVFEvUEl5V2dYMHEyR2JFS0ExaVgzQkJjbGRDRmRWZE1adHV2dzgxanA5UEV6eHZLWkF6RURqblpFYkdhOGRXOUZCdGtwL01kakkxVzVNV0YrYW9rSFV2eUNlVTZDYmNrQVpDeDV0YlFsK1FSM0Z5d2puVW1lcjFONXJieURIZFA2TGJiNmE2K1BkaGJuWEtMcXRDVUJvVm5KeVkveE1raHhETFIrMytnZUp3b21ZMlc1TzlXV0xaZldNQ3hTOTl0YVZxRHRWd0J5NWx4L08yNHkyU3NMOWt4SFpnVUtzTDFqaE5PMFprRHF1WUVMNjhuU3A4dVNjQWdWb0dVRWhPWjUvS3lOWStoM1VQRjZ4THhFN1RRTndGWjIxSkFnc1RrQUFtcHFxUzI2b29WVFhTWWhicnlCNlZhbllBZ3F6SW54V3ZHbXVlM1VkMHczbDVPZkdoZnVQNTJtdnRaUFpWMHRKRThWQWFUSjJ6QXUxQ3pFVXkrVkNDeHhnbWJHMDNLOERkR0xqbzFrdXhkcTdOWHlIQStXMHZVWVNGdzBsN0pKMnBGYnozU2h1UUpaWFRGNExkN1VWVTFpVWJ0eUdSWWxTOG5GdllGWDVQampiVjlnQ1gra2dycnZRcUVpSC9GTmhDVnQ0Z0c2bGRHWmRkcUtGNkRTWVNwQms3N0lSOUU1QnhEY0oyWURlS0dIUHExWUEyelNjd0F3UXpVZUhUS3ZkVTUxa0pOa1ZqRHd3ZHRHa2p6Z0ttNDErbDdVc05Dc1d5cjJ4U1Zuclh5NElaSlVaOXRLak5kSlcyQWVwTFN3PT0ifQ%3D%3D&from=searchresults&selected_currency=USD",
+        "hotel_name": "Comfort Inn & Suites San Francisco Airport North",
+        "hotel_id": "489121",
+        "latitude": "37.6544450",
+        "longitude": "-122.4048360",
+        "address": "121 East Grand Avenue, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/170437059.jpg?k=02365c13816733867655a2631fabd93ab4ad0c7f9fa52e85a5250bcdb69ee463&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Suite - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$118",
+                        "max_persons": 2,
+                        "raw_price": 118,
+                        "raw_price_tax": 21,
+                        "total_price": 139
+                    }
+                ]
+            },
+            {
+                "room_type": "King Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$118",
+                        "max_persons": 2,
+                        "raw_price": 118,
+                        "raw_price_tax": 21,
+                        "total_price": 139
+                    }
+                ]
+            },
+            {
+                "room_type": "King Suite Courtyard View ",
+                "pricing_details": [
+                    {
+                        "price": "US$123",
+                        "max_persons": 2,
+                        "raw_price": 123,
+                        "raw_price_tax": 22,
+                        "total_price": 145
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room - Accessible/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$123",
+                        "max_persons": 2,
+                        "raw_price": 123,
+                        "raw_price_tax": 22,
+                        "total_price": 145
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room with Two King Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$128",
+                        "max_persons": 2,
+                        "raw_price": 128,
+                        "raw_price_tax": 22,
+                        "total_price": 150
+                    },
+                    {
+                        "price": "US$138",
+                        "max_persons": 3,
+                        "raw_price": 138,
+                        "raw_price_tax": 24,
+                        "total_price": 162
+                    },
+                    {
+                        "price": "US$148",
+                        "max_persons": 4,
+                        "raw_price": 148,
+                        "raw_price_tax": 25,
+                        "total_price": 173
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room with Two King Beds Courtyard View ",
+                "pricing_details": [
+                    {
+                        "price": "US$133",
+                        "max_persons": 2,
+                        "raw_price": 133,
+                        "raw_price_tax": 23,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$143",
+                        "max_persons": 3,
+                        "raw_price": 143,
+                        "raw_price_tax": 25,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$153",
+                        "max_persons": 4,
+                        "raw_price": 153,
+                        "raw_price_tax": 26,
+                        "total_price": 179
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 118
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/travelodge-san-francisco-airport-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=5624713_246032589_2_0_0&highlighted_blocks=5624713_246032589_2_0_0&matching_block_id=5624713_246032589_2_0_0&sr_pri_blocks=5624713_246032589_2_0_0__5625&from=searchresults&selected_currency=USD",
+        "hotel_name": "Travelodge by Wyndham San Francisco Airport North",
+        "hotel_id": "56247",
+        "latitude": "37.6444149",
+        "longitude": "-122.4054100",
+        "address": "326 South Airport Boulevard, South San Francisco, CA 94080 , United States of America",
+        "postal_code": "CA 94080 ",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553755377.jpg?k=8e5480e7766d1cae212f5cf93e4d922fde9b0bdce113a19bd2d66f39c9b54dac&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$75",
+                        "max_persons": 2,
+                        "raw_price": 75,
+                        "raw_price_tax": 15,
+                        "total_price": 90
+                    },
+                    {
+                        "price": "US$56",
+                        "max_persons": 2,
+                        "raw_price": 56,
+                        "raw_price_tax": 12,
+                        "total_price": 68
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$65",
+                        "max_persons": 4,
+                        "raw_price": 64,
+                        "raw_price_tax": 14,
+                        "total_price": 78
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$71",
+                        "max_persons": 4,
+                        "raw_price": 71,
+                        "raw_price_tax": 15,
+                        "total_price": 86
+                    }
+                ]
+            },
+            {
+                "room_type": "Studio Suite with 1 King Bed, Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$71",
+                        "max_persons": 4,
+                        "raw_price": 71,
+                        "raw_price_tax": 15,
+                        "total_price": 86
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 56
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/best-western-grosvenor.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=5934207_332364079_2_1_0&highlighted_blocks=5934207_332364079_2_1_0&matching_block_id=5934207_332364079_2_1_0&sr_pri_blocks=5934207_332364079_2_1_0__9999&from=searchresults&selected_currency=USD",
+        "hotel_name": "Best Western Plus Grosvenor Airport Hotel",
+        "hotel_id": "59342",
+        "latitude": "37.6433561",
+        "longitude": "-122.4042271",
+        "address": "380 South Airport Boulevard, South San Francisco, CA  94080, United States of America",
+        "postal_code": "CA  94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/616059193.jpg?k=41546719fe310751e5e9c8d37a392dbc2b019a530e815de31ccd67eae8d9c82b&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Queen Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$100",
+                        "max_persons": 2,
+                        "raw_price": 100,
+                        "raw_price_tax": 18,
+                        "total_price": 118
+                    }
+                ]
+            },
+            {
+                "room_type": "Double Room with Two Double Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$105",
+                        "max_persons": 2,
+                        "raw_price": 105,
+                        "raw_price_tax": 18,
+                        "total_price": 123
+                    },
+                    {
+                        "price": "US$115",
+                        "max_persons": 3,
+                        "raw_price": 115,
+                        "raw_price_tax": 20,
+                        "total_price": 135
+                    },
+                    {
+                        "price": "US$125",
+                        "max_persons": 4,
+                        "raw_price": 125,
+                        "raw_price_tax": 21,
+                        "total_price": 146
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    }
+                ]
+            },
+            {
+                "room_type": "Double Room with Two Double Beds and Roll-In Shower - Mobility Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    },
+                    {
+                        "price": "US$120",
+                        "max_persons": 3,
+                        "raw_price": 120,
+                        "raw_price_tax": 20,
+                        "total_price": 140
+                    },
+                    {
+                        "price": "US$130",
+                        "max_persons": 4,
+                        "raw_price": 130,
+                        "raw_price_tax": 22,
+                        "total_price": 152
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    }
+                ]
+            },
+            {
+                "room_type": "Executive Double Room with Two Double Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$120",
+                        "max_persons": 2,
+                        "raw_price": 120,
+                        "raw_price_tax": 20,
+                        "total_price": 140
+                    },
+                    {
+                        "price": "US$130",
+                        "max_persons": 3,
+                        "raw_price": 130,
+                        "raw_price_tax": 22,
+                        "total_price": 152
+                    },
+                    {
+                        "price": "US$140",
+                        "max_persons": 4,
+                        "raw_price": 140,
+                        "raw_price_tax": 23,
+                        "total_price": 163
+                    }
+                ]
+            },
+            {
+                "room_type": "Executive King Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$120",
+                        "max_persons": 2,
+                        "raw_price": 120,
+                        "raw_price_tax": 20,
+                        "total_price": 140
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Suite - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$140",
+                        "max_persons": 2,
+                        "raw_price": 140,
+                        "raw_price_tax": 23,
+                        "total_price": 163
+                    },
+                    {
+                        "price": "US$150",
+                        "max_persons": 3,
+                        "raw_price": 150,
+                        "raw_price_tax": 25,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$160",
+                        "max_persons": 4,
+                        "raw_price": 160,
+                        "raw_price_tax": 26,
+                        "total_price": 186
+                    }
+                ]
+            },
+            {
+                "room_type": "Two-Rooms Executive Queen Suite with One Queen Bed and Sofa Bed - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$150",
+                        "max_persons": 2,
+                        "raw_price": 150,
+                        "raw_price_tax": 25,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$160",
+                        "max_persons": 3,
+                        "raw_price": 160,
+                        "raw_price_tax": 26,
+                        "total_price": 186
+                    },
+                    {
+                        "price": "US$170",
+                        "max_persons": 4,
+                        "raw_price": 170,
+                        "raw_price_tax": 27,
+                        "total_price": 197
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 100
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/holiday-inn-express-sfo-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=7950310_246082090_2_1_0&highlighted_blocks=7950310_246082090_2_1_0&matching_block_id=7950310_246082090_2_1_0&sr_pri_blocks=7950310_246082090_2_1_0__9899&from=searchresults&selected_currency=USD",
+        "hotel_name": "Holiday Inn Express San Francisco Airport North, an IHG Hotel",
+        "hotel_id": "79503",
+        "latitude": "37.6440326",
+        "longitude": "-122.4040461",
+        "address": "373 South Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/237203594.jpg?k=d57457dc7fcd67e4821233d52cdeef84366be1d0cf08f272fd11ab87bfbaf4be&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Standard King Room with Extra Space",
+                "pricing_details": [
+                    {
+                        "price": "US$99",
+                        "max_persons": 2,
+                        "raw_price": 99,
+                        "raw_price_tax": 15,
+                        "total_price": 114
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$99",
+                        "max_persons": 2,
+                        "raw_price": 99,
+                        "raw_price_tax": 15,
+                        "total_price": 114
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard Room",
+                "pricing_details": [
+                    {
+                        "price": "US$99",
+                        "max_persons": 2,
+                        "raw_price": 99,
+                        "raw_price_tax": 15,
+                        "total_price": 114
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard King Room with Sofa Bed - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$109",
+                        "max_persons": 2,
+                        "raw_price": 109,
+                        "raw_price_tax": 17,
+                        "total_price": 126
+                    },
+                    {
+                        "price": "US$119",
+                        "max_persons": 3,
+                        "raw_price": 119,
+                        "raw_price_tax": 18,
+                        "total_price": 137
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 4,
+                        "raw_price": 129,
+                        "raw_price_tax": 20,
+                        "total_price": 149
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard Queen Room with Two Queen Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$109",
+                        "max_persons": 2,
+                        "raw_price": 109,
+                        "raw_price_tax": 17,
+                        "total_price": 126
+                    },
+                    {
+                        "price": "US$119",
+                        "max_persons": 3,
+                        "raw_price": 119,
+                        "raw_price_tax": 18,
+                        "total_price": 137
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 4,
+                        "raw_price": 129,
+                        "raw_price_tax": 20,
+                        "total_price": 149
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 99
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/holiday-inn-sfo-airport-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=5906026_295546401_2_2_0&highlighted_blocks=5906026_295546401_2_2_0&matching_block_id=5906026_295546401_2_2_0&sr_pri_blocks=5906026_295546401_2_2_0__13500&from_sustainable_property_sr=1&from=searchresults&selected_currency=USD",
+        "hotel_name": "DoubleTree by Hilton San Francisco South Airport Blvd",
+        "hotel_id": "59060",
+        "latitude": "37.6467580",
+        "longitude": "-122.4044860",
+        "address": "275 South Airport Blvd, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485809405.jpg?k=90f331c1554fba3d4b70d4cb3ec09946dbae87b8b80df06198e5c1341ed62ea0&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$135",
+                        "max_persons": 2,
+                        "raw_price": 135,
+                        "raw_price_tax": 24,
+                        "total_price": 159
+                    },
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$131",
+                        "max_persons": 1,
+                        "raw_price": 130,
+                        "raw_price_tax": 23,
+                        "total_price": 153
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 1,
+                        "raw_price": 145,
+                        "raw_price_tax": 25,
+                        "total_price": 170
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 2,
+                        "raw_price": 175,
+                        "raw_price_tax": 30,
+                        "total_price": 205
+                    },
+                    {
+                        "price": "US$165",
+                        "max_persons": 3,
+                        "raw_price": 165,
+                        "raw_price_tax": 28,
+                        "total_price": 193
+                    },
+                    {
+                        "price": "US$195",
+                        "max_persons": 3,
+                        "raw_price": 195,
+                        "raw_price_tax": 33,
+                        "total_price": 228
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 4,
+                        "raw_price": 175,
+                        "raw_price_tax": 30,
+                        "total_price": 205
+                    },
+                    {
+                        "price": "US$215",
+                        "max_persons": 4,
+                        "raw_price": 215,
+                        "raw_price_tax": 36,
+                        "total_price": 251
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 1,
+                        "raw_price": 148,
+                        "raw_price_tax": 26,
+                        "total_price": 174
+                    },
+                    {
+                        "price": "US$165",
+                        "max_persons": 1,
+                        "raw_price": 165,
+                        "raw_price_tax": 28,
+                        "total_price": 193
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Queen Room with Two Queen Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 2,
+                        "raw_price": 175,
+                        "raw_price_tax": 30,
+                        "total_price": 205
+                    },
+                    {
+                        "price": "US$165",
+                        "max_persons": 3,
+                        "raw_price": 165,
+                        "raw_price_tax": 28,
+                        "total_price": 193
+                    },
+                    {
+                        "price": "US$195",
+                        "max_persons": 3,
+                        "raw_price": 195,
+                        "raw_price_tax": 33,
+                        "total_price": 228
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 4,
+                        "raw_price": 175,
+                        "raw_price_tax": 30,
+                        "total_price": 205
+                    },
+                    {
+                        "price": "US$215",
+                        "max_persons": 4,
+                        "raw_price": 215,
+                        "raw_price_tax": 36,
+                        "total_price": 251
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 1,
+                        "raw_price": 148,
+                        "raw_price_tax": 26,
+                        "total_price": 174
+                    },
+                    {
+                        "price": "US$165",
+                        "max_persons": 1,
+                        "raw_price": 165,
+                        "raw_price_tax": 28,
+                        "total_price": 193
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room with Accessible Tub - Mobility and Hearing Access",
+                "pricing_details": [
+                    {
+                        "price": "US$135",
+                        "max_persons": 2,
+                        "raw_price": 135,
+                        "raw_price_tax": 24,
+                        "total_price": 159
+                    },
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$131",
+                        "max_persons": 1,
+                        "raw_price": 130,
+                        "raw_price_tax": 23,
+                        "total_price": 153
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 1,
+                        "raw_price": 145,
+                        "raw_price_tax": 25,
+                        "total_price": 170
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Queen Room with Two Queen Beds - Mobility/Hearing Accessible",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 2,
+                        "raw_price": 175,
+                        "raw_price_tax": 30,
+                        "total_price": 205
+                    },
+                    {
+                        "price": "US$165",
+                        "max_persons": 3,
+                        "raw_price": 165,
+                        "raw_price_tax": 28,
+                        "total_price": 193
+                    },
+                    {
+                        "price": "US$195",
+                        "max_persons": 3,
+                        "raw_price": 195,
+                        "raw_price_tax": 33,
+                        "total_price": 228
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 4,
+                        "raw_price": 175,
+                        "raw_price_tax": 30,
+                        "total_price": 205
+                    },
+                    {
+                        "price": "US$215",
+                        "max_persons": 4,
+                        "raw_price": 215,
+                        "raw_price_tax": 36,
+                        "total_price": 251
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 1,
+                        "raw_price": 148,
+                        "raw_price_tax": 26,
+                        "total_price": 174
+                    },
+                    {
+                        "price": "US$165",
+                        "max_persons": 1,
+                        "raw_price": 165,
+                        "raw_price_tax": 28,
+                        "total_price": 193
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 130
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/ac-by-marriott-san-francisco-airport-oyster-point-waterfront.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=234904803_167608521_0_42_0&highlighted_blocks=234904803_167608521_0_42_0&matching_block_id=234904803_167608521_0_42_0&sr_pri_blocks=234904803_167608521_0_42_0__13500&from_sustainable_property_sr=1&from=searchresults&selected_currency=USD",
+        "hotel_name": "AC Hotel by Marriott San Francisco Airport/Oyster Point Waterfront",
+        "hotel_id": "2349048",
+        "latitude": "37.6644380",
+        "longitude": "-122.3957130",
+        "address": "1333 Veterans Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/587035813.jpg?k=c5440c48d5cb4c9623e09d274a5cbb64633d86fda9687f88d780ff6aa9058399&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$135",
+                        "max_persons": 4,
+                        "raw_price": 135,
+                        "raw_price_tax": 24,
+                        "total_price": 159
+                    },
+                    {
+                        "price": "US$170",
+                        "max_persons": 4,
+                        "raw_price": 170,
+                        "raw_price_tax": 29,
+                        "total_price": 199
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room with Bay View",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room - Hearing Accessible",
+                "pricing_details": [
+                    {
+                        "price": "US$135",
+                        "max_persons": 2,
+                        "raw_price": 135,
+                        "raw_price_tax": 24,
+                        "total_price": 159
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room with Sofa Bed",
+                "pricing_details": [
+                    {
+                        "price": "US$135",
+                        "max_persons": 3,
+                        "raw_price": 135,
+                        "raw_price_tax": 24,
+                        "total_price": 159
+                    },
+                    {
+                        "price": "US$170",
+                        "max_persons": 3,
+                        "raw_price": 170,
+                        "raw_price_tax": 29,
+                        "total_price": 199
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room with Sofa bed and Bay View",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 3,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$190",
+                        "max_persons": 3,
+                        "raw_price": 190,
+                        "raw_price_tax": 32,
+                        "total_price": 222
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds and Bay View ",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 4,
+                        "raw_price": 155,
+                        "raw_price_tax": 27,
+                        "total_price": 182
+                    },
+                    {
+                        "price": "US$190",
+                        "max_persons": 4,
+                        "raw_price": 190,
+                        "raw_price_tax": 32,
+                        "total_price": 222
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 135
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/home2-suites-by-hilton-san-francisco-airport-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=448070407_274563078_2_1_0_746620&highlighted_blocks=448070407_274563078_2_1_0_746620&matching_block_id=448070407_274563078_2_1_0_746620&sr_pri_blocks=448070407_274563078_2_1_0_746620_13900&from_sustainable_property_sr=1&from=searchresults&selected_currency=USD",
+        "hotel_name": "Home2 Suites By Hilton San Francisco Airport North",
+        "hotel_id": "4480704",
+        "latitude": "37.6571030",
+        "longitude": "-122.3992458",
+        "address": "550 Gateway Blvd, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485846876.jpg?k=94ed3ecc384054734ac624025bdcf29b5c2aaf19138d35b717b96450bf6adb10&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Studio Suite - Hearing Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$139",
+                        "max_persons": 2,
+                        "raw_price": 139,
+                        "raw_price_tax": 25,
+                        "total_price": 164
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 3,
+                        "raw_price": 149,
+                        "raw_price_tax": 26,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$159",
+                        "max_persons": 4,
+                        "raw_price": 159,
+                        "raw_price_tax": 27,
+                        "total_price": 186
+                    }
+                ]
+            },
+            {
+                "room_type": "King Studio Suite - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$139",
+                        "max_persons": 2,
+                        "raw_price": 139,
+                        "raw_price_tax": 25,
+                        "total_price": 164
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 3,
+                        "raw_price": 149,
+                        "raw_price_tax": 26,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$159",
+                        "max_persons": 4,
+                        "raw_price": 159,
+                        "raw_price_tax": 27,
+                        "total_price": 186
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Studio with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$139",
+                        "max_persons": 2,
+                        "raw_price": 139,
+                        "raw_price_tax": 25,
+                        "total_price": 164
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 3,
+                        "raw_price": 149,
+                        "raw_price_tax": 26,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$159",
+                        "max_persons": 4,
+                        "raw_price": 159,
+                        "raw_price_tax": 27,
+                        "total_price": 186
+                    },
+                    {
+                        "price": "US$169",
+                        "max_persons": 5,
+                        "raw_price": 169,
+                        "raw_price_tax": 29,
+                        "total_price": 198
+                    }
+                ]
+            },
+            {
+                "room_type": "King Studio - Mobility and Hearing Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$139",
+                        "max_persons": 2,
+                        "raw_price": 139,
+                        "raw_price_tax": 25,
+                        "total_price": 164
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 3,
+                        "raw_price": 149,
+                        "raw_price_tax": 26,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$159",
+                        "max_persons": 4,
+                        "raw_price": 159,
+                        "raw_price_tax": 27,
+                        "total_price": 186
+                    }
+                ]
+            },
+            {
+                "room_type": "One-Bedroom King Suite - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$184",
+                        "max_persons": 2,
+                        "raw_price": 184,
+                        "raw_price_tax": 31,
+                        "total_price": 215
+                    },
+                    {
+                        "price": "US$194",
+                        "max_persons": 3,
+                        "raw_price": 194,
+                        "raw_price_tax": 33,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$204",
+                        "max_persons": 4,
+                        "raw_price": 204,
+                        "raw_price_tax": 34,
+                        "total_price": 238
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 139
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/sonesta-es-suites-sf-airport-waterfront.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=18100905_298312947_2_1_0&highlighted_blocks=18100905_298312947_2_1_0&matching_block_id=18100905_298312947_2_1_0&sr_pri_blocks=18100905_298312947_2_1_0__11815&from=searchresults&selected_currency=USD",
+        "hotel_name": "Sonesta ES Suites San Francisco Airport Oyster Point Waterfront",
+        "hotel_id": "181009",
+        "latitude": "37.6670747",
+        "longitude": "-122.3936820",
+        "address": "1350 Veterans Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351207906.jpg?k=fd9b5bfa85e3981c4d4db9c21a278cca2e41eadf38b76a24bb4dd07a250a3a7a&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Studio Suite Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$118",
+                        "max_persons": 2,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    },
+                    {
+                        "price": "US$128",
+                        "max_persons": 3,
+                        "raw_price": 128,
+                        "raw_price_tax": 22,
+                        "total_price": 150
+                    }
+                ]
+            },
+            {
+                "room_type": "Hearing Accessible Studio Suite Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$118",
+                        "max_persons": 2,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    },
+                    {
+                        "price": "US$128",
+                        "max_persons": 3,
+                        "raw_price": 128,
+                        "raw_price_tax": 22,
+                        "total_price": 150
+                    }
+                ]
+            },
+            {
+                "room_type": "Bay View Studio Suite Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$127",
+                        "max_persons": 2,
+                        "raw_price": 127,
+                        "raw_price_tax": 21,
+                        "total_price": 148
+                    },
+                    {
+                        "price": "US$137",
+                        "max_persons": 3,
+                        "raw_price": 137,
+                        "raw_price_tax": 23,
+                        "total_price": 160
+                    }
+                ]
+            },
+            {
+                "room_type": "Mobility Accessible One Bedroom Suite Queen Bathtub",
+                "pricing_details": [
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 3,
+                        "raw_price": 154,
+                        "raw_price_tax": 25,
+                        "total_price": 179
+                    }
+                ]
+            },
+            {
+                "room_type": "One Bedroom Suite Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 3,
+                        "raw_price": 154,
+                        "raw_price_tax": 25,
+                        "total_price": 179
+                    }
+                ]
+            },
+            {
+                "room_type": "Hearing Accessible Bay View One Bedroom Suite Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$152",
+                        "max_persons": 2,
+                        "raw_price": 152,
+                        "raw_price_tax": 25,
+                        "total_price": 177
+                    },
+                    {
+                        "price": "US$162",
+                        "max_persons": 3,
+                        "raw_price": 162,
+                        "raw_price_tax": 27,
+                        "total_price": 189
+                    }
+                ]
+            },
+            {
+                "room_type": "Bay View One Bedroom Suites Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$152",
+                        "max_persons": 2,
+                        "raw_price": 152,
+                        "raw_price_tax": 25,
+                        "total_price": 177
+                    },
+                    {
+                        "price": "US$162",
+                        "max_persons": 3,
+                        "raw_price": 162,
+                        "raw_price_tax": 27,
+                        "total_price": 189
+                    }
+                ]
+            },
+            {
+                "room_type": "Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$161",
+                        "max_persons": 2,
+                        "raw_price": 161,
+                        "raw_price_tax": 27,
+                        "total_price": 188
+                    },
+                    {
+                        "price": "US$171",
+                        "max_persons": 3,
+                        "raw_price": 171,
+                        "raw_price_tax": 28,
+                        "total_price": 199
+                    }
+                ]
+            },
+            {
+                "room_type": "Two Bedroom Suite Two Queens",
+                "pricing_details": [
+                    {
+                        "price": "US$186",
+                        "max_persons": 2,
+                        "raw_price": 186,
+                        "raw_price_tax": 30,
+                        "total_price": 216
+                    },
+                    {
+                        "price": "US$196",
+                        "max_persons": 3,
+                        "raw_price": 196,
+                        "raw_price_tax": 32,
+                        "total_price": 228
+                    },
+                    {
+                        "price": "US$206",
+                        "max_persons": 4,
+                        "raw_price": 206,
+                        "raw_price_tax": 33,
+                        "total_price": 239
+                    },
+                    {
+                        "price": "US$216",
+                        "max_persons": 5,
+                        "raw_price": 216,
+                        "raw_price_tax": 35,
+                        "total_price": 251
+                    }
+                ]
+            },
+            {
+                "room_type": "Mobility Accessible Bay View Two Bedroom Suite Queen in Each Tub",
+                "pricing_details": [
+                    {
+                        "price": "US$195",
+                        "max_persons": 2,
+                        "raw_price": 195,
+                        "raw_price_tax": 32,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$205",
+                        "max_persons": 3,
+                        "raw_price": 205,
+                        "raw_price_tax": 33,
+                        "total_price": 238
+                    },
+                    {
+                        "price": "US$215",
+                        "max_persons": 4,
+                        "raw_price": 215,
+                        "raw_price_tax": 35,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$225",
+                        "max_persons": 5,
+                        "raw_price": 225,
+                        "raw_price_tax": 36,
+                        "total_price": 261
+                    }
+                ]
+            },
+            {
+                "room_type": "Bay View Two Bedroom Suite Queen in Each",
+                "pricing_details": [
+                    {
+                        "price": "US$195",
+                        "max_persons": 2,
+                        "raw_price": 195,
+                        "raw_price_tax": 32,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$205",
+                        "max_persons": 3,
+                        "raw_price": 205,
+                        "raw_price_tax": 33,
+                        "total_price": 238
+                    },
+                    {
+                        "price": "US$215",
+                        "max_persons": 4,
+                        "raw_price": 215,
+                        "raw_price_tax": 35,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$225",
+                        "max_persons": 5,
+                        "raw_price": 225,
+                        "raw_price_tax": 36,
+                        "total_price": 261
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 118
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/embassy-suites-san-francisco-airport-south-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2986214_266277450_2_41_0&highlighted_blocks=2986214_266277450_2_41_0&matching_block_id=2986214_266277450_2_41_0&sr_pri_blocks=2986214_266277450_2_41_0__18900&from_sustainable_property_sr=1&from=searchresults&selected_currency=USD",
+        "hotel_name": "Embassy Suites San Francisco Airport - South San Francisco",
+        "hotel_id": "29862",
+        "latitude": "37.6557063",
+        "longitude": "-122.4013558",
+        "address": "250 Gateway Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484384291.jpg?k=153ced822c17c6b98c1f83a91096071024e1c00b6f45369306a2d0841734dbe9&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "One-Bedroom Suite - Mobility Access/Bath Tub",
+                "pricing_details": [
+                    {
+                        "price": "US$189",
+                        "max_persons": 2,
+                        "raw_price": 189,
+                        "raw_price_tax": 38,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$209",
+                        "max_persons": 3,
+                        "raw_price": 209,
+                        "raw_price_tax": 41,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$229",
+                        "max_persons": 4,
+                        "raw_price": 229,
+                        "raw_price_tax": 44,
+                        "total_price": 273
+                    },
+                    {
+                        "price": "US$249",
+                        "max_persons": 5,
+                        "raw_price": 249,
+                        "raw_price_tax": 47,
+                        "total_price": 296
+                    }
+                ]
+            },
+            {
+                "room_type": "Two-Room King Suite - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$189",
+                        "max_persons": 2,
+                        "raw_price": 189,
+                        "raw_price_tax": 38,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$209",
+                        "max_persons": 3,
+                        "raw_price": 209,
+                        "raw_price_tax": 41,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$229",
+                        "max_persons": 4,
+                        "raw_price": 229,
+                        "raw_price_tax": 44,
+                        "total_price": 273
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room - Mobility Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$189",
+                        "max_persons": 2,
+                        "raw_price": 189,
+                        "raw_price_tax": 38,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$209",
+                        "max_persons": 3,
+                        "raw_price": 209,
+                        "raw_price_tax": 41,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$229",
+                        "max_persons": 4,
+                        "raw_price": 229,
+                        "raw_price_tax": 44,
+                        "total_price": 273
+                    }
+                ]
+            },
+            {
+                "room_type": "Suite with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$189",
+                        "max_persons": 2,
+                        "raw_price": 189,
+                        "raw_price_tax": 38,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$209",
+                        "max_persons": 3,
+                        "raw_price": 209,
+                        "raw_price_tax": 41,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$229",
+                        "max_persons": 4,
+                        "raw_price": 229,
+                        "raw_price_tax": 44,
+                        "total_price": 273
+                    },
+                    {
+                        "price": "US$249",
+                        "max_persons": 5,
+                        "raw_price": 249,
+                        "raw_price_tax": 47,
+                        "total_price": 296
+                    },
+                    {
+                        "price": "US$269",
+                        "max_persons": 6,
+                        "raw_price": 269,
+                        "raw_price_tax": 51,
+                        "total_price": 320
+                    }
+                ]
+            },
+            {
+                "room_type": "One-Bedroom Suite - Hearing Access",
+                "pricing_details": [
+                    {
+                        "price": "US$189",
+                        "max_persons": 2,
+                        "raw_price": 189,
+                        "raw_price_tax": 38,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$209",
+                        "max_persons": 3,
+                        "raw_price": 209,
+                        "raw_price_tax": 41,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$229",
+                        "max_persons": 4,
+                        "raw_price": 229,
+                        "raw_price_tax": 44,
+                        "total_price": 273
+                    },
+                    {
+                        "price": "US$249",
+                        "max_persons": 5,
+                        "raw_price": 249,
+                        "raw_price_tax": 47,
+                        "total_price": 296
+                    }
+                ]
+            },
+            {
+                "room_type": "One-Bedroom King Suite with Roll-In Shower - Mobility Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$189",
+                        "max_persons": 2,
+                        "raw_price": 189,
+                        "raw_price_tax": 38,
+                        "total_price": 227
+                    },
+                    {
+                        "price": "US$209",
+                        "max_persons": 3,
+                        "raw_price": 209,
+                        "raw_price_tax": 41,
+                        "total_price": 250
+                    },
+                    {
+                        "price": "US$229",
+                        "max_persons": 4,
+                        "raw_price": 229,
+                        "raw_price_tax": 44,
+                        "total_price": 273
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Studio with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$249",
+                        "max_persons": 2,
+                        "raw_price": 249,
+                        "raw_price_tax": 47,
+                        "total_price": 296
+                    },
+                    {
+                        "price": "US$269",
+                        "max_persons": 3,
+                        "raw_price": 269,
+                        "raw_price_tax": 51,
+                        "total_price": 320
+                    },
+                    {
+                        "price": "US$289",
+                        "max_persons": 4,
+                        "raw_price": 289,
+                        "raw_price_tax": 54,
+                        "total_price": 343
+                    },
+                    {
+                        "price": "US$309",
+                        "max_persons": 5,
+                        "raw_price": 309,
+                        "raw_price_tax": 57,
+                        "total_price": 366
+                    },
+                    {
+                        "price": "US$329",
+                        "max_persons": 6,
+                        "raw_price": 329,
+                        "raw_price_tax": 60,
+                        "total_price": 389
+                    },
+                    {
+                        "price": "US$219",
+                        "max_persons": 1,
+                        "raw_price": 219,
+                        "raw_price_tax": 43,
+                        "total_price": 262
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 189
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/hampton-inn-san-francisco-airport.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2987114_287394869_2_1_0_746621&highlighted_blocks=2987114_287394869_2_1_0_746621&matching_block_id=2987114_287394869_2_1_0_746621&sr_pri_blocks=2987114_287394869_2_1_0_746621_13400&from_sustainable_property_sr=1&from=searchresults&selected_currency=USD",
+        "hotel_name": "Hampton Inn San Francisco Airport",
+        "hotel_id": "29871",
+        "latitude": "37.6564241",
+        "longitude": "-122.4007094",
+        "address": "300 Gateway Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485805134.jpg?k=79605c03581382d1e7c5337ba9cec12a1295b628ed870d04e41dda173ec3865f&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Room - Mobility Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 23,
+                        "total_price": 157
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 23,
+                        "total_price": 157
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 3,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 4,
+                        "raw_price": 154,
+                        "raw_price_tax": 26,
+                        "total_price": 180
+                    }
+                ]
+            },
+            {
+                "room_type": "Executive King Room with Sofa Bed - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 23,
+                        "total_price": 157
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 3,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 4,
+                        "raw_price": 154,
+                        "raw_price_tax": 26,
+                        "total_price": 180
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 23,
+                        "total_price": 157
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 3,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 4,
+                        "raw_price": 154,
+                        "raw_price_tax": 26,
+                        "total_price": 180
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe King Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 3,
+                        "raw_price": 154,
+                        "raw_price_tax": 26,
+                        "total_price": 180
+                    },
+                    {
+                        "price": "US$164",
+                        "max_persons": 4,
+                        "raw_price": 164,
+                        "raw_price_tax": 27,
+                        "total_price": 191
+                    }
+                ]
+            },
+            {
+                "room_type": "Premium Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 3,
+                        "raw_price": 154,
+                        "raw_price_tax": 26,
+                        "total_price": 180
+                    },
+                    {
+                        "price": "US$164",
+                        "max_persons": 4,
+                        "raw_price": 164,
+                        "raw_price_tax": 27,
+                        "total_price": 191
+                    }
+                ]
+            },
+            {
+                "room_type": "Premium King Room with Sofa Bed - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$154",
+                        "max_persons": 2,
+                        "raw_price": 154,
+                        "raw_price_tax": 26,
+                        "total_price": 180
+                    },
+                    {
+                        "price": "US$164",
+                        "max_persons": 3,
+                        "raw_price": 164,
+                        "raw_price_tax": 27,
+                        "total_price": 191
+                    },
+                    {
+                        "price": "US$174",
+                        "max_persons": 4,
+                        "raw_price": 174,
+                        "raw_price_tax": 28,
+                        "total_price": 202
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 134
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/vagabond-inn-san-francisco-airport-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=38590606_159124363_2_0_0&highlighted_blocks=38590606_159124363_2_0_0&matching_block_id=38590606_159124363_2_0_0&sr_pri_blocks=38590606_159124363_2_0_0__7268&from=searchresults&selected_currency=USD",
+        "hotel_name": "Hotel Focus SFO",
+        "hotel_id": "385906",
+        "latitude": "37.6494693",
+        "longitude": "-122.4044407",
+        "address": "111 Mitchell Avenue, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42014156.jpg?k=60c00597afafab6217f3de236f177a9103444b896f19d6ae2463a5df7f5dcb6d&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Deluxe Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$73",
+                        "max_persons": 2,
+                        "raw_price": 73,
+                        "raw_price_tax": 14,
+                        "total_price": 87
+                    }
+                ]
+            },
+            {
+                "room_type": "Superior Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$87",
+                        "max_persons": 2,
+                        "raw_price": 87,
+                        "raw_price_tax": 17,
+                        "total_price": 104
+                    }
+                ]
+            },
+            {
+                "room_type": "Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$97",
+                        "max_persons": 2,
+                        "raw_price": 97,
+                        "raw_price_tax": 18,
+                        "total_price": 115
+                    },
+                    {
+                        "price": "US$106",
+                        "max_persons": 3,
+                        "raw_price": 106,
+                        "raw_price_tax": 20,
+                        "total_price": 126
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Double Room with Two Double Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$82",
+                        "max_persons": 3,
+                        "raw_price": 82,
+                        "raw_price_tax": 16,
+                        "total_price": 98
+                    },
+                    {
+                        "price": "US$100",
+                        "max_persons": 4,
+                        "raw_price": 100,
+                        "raw_price_tax": 19,
+                        "total_price": 119
+                    }
+                ]
+            },
+            {
+                "room_type": "Presidio - Executive Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$97",
+                        "max_persons": 3,
+                        "raw_price": 97,
+                        "raw_price_tax": 18,
+                        "total_price": 115
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 73
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/quality-inn-suites-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2880809_370735235_0_1_0_567705&highlighted_blocks=2880809_370735235_0_1_0_567705&matching_block_id=2880809_370735235_0_1_0_567705&sr_pri_blocks=2880809_370735235_0_1_0_567705_8443&from=searchresults&selected_currency=USD",
+        "hotel_name": "Hotel Nova SFO",
+        "hotel_id": "28808",
+        "latitude": "37.6423993",
+        "longitude": "-122.4036759",
+        "address": "410 South Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195716046.jpg?k=1a014d93d24ff6b368bdfac5cabc30a4445d0022774d3d9af13bfd7412b86679&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Queen Room - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$92",
+                        "max_persons": 2,
+                        "raw_price": 92,
+                        "raw_price_tax": 16,
+                        "total_price": 108
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$92",
+                        "max_persons": 2,
+                        "raw_price": 92,
+                        "raw_price_tax": 16,
+                        "total_price": 108
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$96",
+                        "max_persons": 2,
+                        "raw_price": 96,
+                        "raw_price_tax": 17,
+                        "total_price": 113
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$105",
+                        "max_persons": 2,
+                        "raw_price": 105,
+                        "raw_price_tax": 18,
+                        "total_price": 123
+                    },
+                    {
+                        "price": "US$124",
+                        "max_persons": 3,
+                        "raw_price": 124,
+                        "raw_price_tax": 21,
+                        "total_price": 145
+                    }
+                ]
+            },
+            {
+                "room_type": "Double Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$108",
+                        "max_persons": 2,
+                        "raw_price": 108,
+                        "raw_price_tax": 18,
+                        "total_price": 126
+                    },
+                    {
+                        "price": "US$126",
+                        "max_persons": 3,
+                        "raw_price": 126,
+                        "raw_price_tax": 21,
+                        "total_price": 147
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 4,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$135",
+                        "max_persons": 2,
+                        "raw_price": 135,
+                        "raw_price_tax": 22,
+                        "total_price": 157
+                    },
+                    {
+                        "price": "US$154",
+                        "max_persons": 3,
+                        "raw_price": 154,
+                        "raw_price_tax": 25,
+                        "total_price": 179
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 92
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/fairfield-by-marriott-inn-suites-san-francisco-airport-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=701507401_288660411_0_1_0&highlighted_blocks=701507401_288660411_0_1_0&matching_block_id=701507401_288660411_0_1_0&sr_pri_blocks=701507401_288660411_0_1_0__12500&from=searchresults&selected_currency=USD",
+        "hotel_name": "Fairfield by Marriott Inn & Suites San Francisco Airport Oyster Point Area",
+        "hotel_id": "7015074",
+        "latitude": "37.6500470",
+        "longitude": "-122.4038620",
+        "address": "127 W. Harris Avenue, South San Francisco, 94080, United States of America",
+        "postal_code": "94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/541611425.jpg?k=e55b03f1ad4b21e258a2a4b310e5823b1704f8364e9d27df38c54fe04d2f0025&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Guest Room",
+                "pricing_details": [
+                    {
+                        "price": "US$125",
+                        "max_persons": 2,
+                        "raw_price": 125,
+                        "raw_price_tax": 21,
+                        "total_price": 146
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Guest Room with 2 Queen Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$125",
+                        "max_persons": 2,
+                        "raw_price": 125,
+                        "raw_price_tax": 21,
+                        "total_price": 146
+                    }
+                ]
+            },
+            {
+                "room_type": "King Suite with Sofa Bed - Hearing Accessible",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 26,
+                        "total_price": 181
+                    }
+                ]
+            },
+            {
+                "room_type": "King Suite with Sofa Bed",
+                "pricing_details": [
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 26,
+                        "total_price": 181
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 125
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/howard-johnson-express-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2890003_108357139_2_0_0&highlighted_blocks=2890003_108357139_2_0_0&matching_block_id=2890003_108357139_2_0_0&sr_pri_blocks=2890003_108357139_2_0_0__6132&from=searchresults&selected_currency=USD",
+        "hotel_name": "Rodeway Inn South San Francisco Airport",
+        "hotel_id": "28900",
+        "latitude": "37.6483597",
+        "longitude": "-122.4057439",
+        "address": "222 South Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434142947.jpg?k=1652bef083e4d3605bd00636c9b40202e956e0812e96ce5f959ad27d1daedda3&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Standard King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$61",
+                        "max_persons": 2,
+                        "raw_price": 61,
+                        "raw_price_tax": 11,
+                        "total_price": 72
+                    },
+                    {
+                        "price": "US$65",
+                        "max_persons": 2,
+                        "raw_price": 65,
+                        "raw_price_tax": 12,
+                        "total_price": 77
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard Double Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$66",
+                        "max_persons": 4,
+                        "raw_price": 66,
+                        "raw_price_tax": 12,
+                        "total_price": 78
+                    },
+                    {
+                        "price": "US$70",
+                        "max_persons": 4,
+                        "raw_price": 70,
+                        "raw_price_tax": 12,
+                        "total_price": 82
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 61
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/hilton-garden-inn-san-francisco-arpt-north.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2986301_266269903_2_34_0&highlighted_blocks=2986301_266269903_2_34_0&matching_block_id=2986301_266269903_2_34_0&sr_pri_blocks=2986301_266269903_2_34_0__12400&from_sustainable_property_sr=1&from=searchresults&selected_currency=USD",
+        "hotel_name": "Hilton Garden Inn San Francisco Airport North",
+        "hotel_id": "29863",
+        "latitude": "37.6575155",
+        "longitude": "-122.3975444",
+        "address": "670 Gateway Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474351046.jpg?k=4d54ef84ed3788e59c173e140ebbecc7eff1133e0a77a11958f7e0f9dc83a58b&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$124",
+                        "max_persons": 2,
+                        "raw_price": 124,
+                        "raw_price_tax": 21,
+                        "total_price": 145
+                    },
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 1,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$124",
+                        "max_persons": 2,
+                        "raw_price": 124,
+                        "raw_price_tax": 21,
+                        "total_price": 145
+                    },
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$134",
+                        "max_persons": 3,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 3,
+                        "raw_price": 149,
+                        "raw_price_tax": 24,
+                        "total_price": 173
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 4,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$164",
+                        "max_persons": 4,
+                        "raw_price": 164,
+                        "raw_price_tax": 27,
+                        "total_price": 191
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 1,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room - Disability Access/Hearing Accessible",
+                "pricing_details": [
+                    {
+                        "price": "US$124",
+                        "max_persons": 2,
+                        "raw_price": 124,
+                        "raw_price_tax": 21,
+                        "total_price": 145
+                    },
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 1,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    }
+                ]
+            },
+            {
+                "room_type": "Double Room - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$124",
+                        "max_persons": 2,
+                        "raw_price": 124,
+                        "raw_price_tax": 21,
+                        "total_price": 145
+                    },
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$134",
+                        "max_persons": 3,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    },
+                    {
+                        "price": "US$149",
+                        "max_persons": 3,
+                        "raw_price": 149,
+                        "raw_price_tax": 24,
+                        "total_price": 173
+                    },
+                    {
+                        "price": "US$144",
+                        "max_persons": 4,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    },
+                    {
+                        "price": "US$164",
+                        "max_persons": 4,
+                        "raw_price": 164,
+                        "raw_price_tax": 27,
+                        "total_price": 191
+                    },
+                    {
+                        "price": "US$129",
+                        "max_persons": 1,
+                        "raw_price": 129,
+                        "raw_price_tax": 22,
+                        "total_price": 151
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 124
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/south-san-francisco-690-gateway-boulevard.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=33249108_389551545_2_1_0_712433&highlighted_blocks=33249108_389551545_2_1_0_712433&matching_block_id=33249108_389551545_2_1_0_712433&sr_pri_blocks=33249108_389551545_2_1_0_712433_9401&from=searchresults&selected_currency=USD",
+        "hotel_name": "Larkspur Landing Extended Stay Suites South San Francisco",
+        "hotel_id": "332491",
+        "latitude": "37.6580528",
+        "longitude": "-122.3966566",
+        "address": "690 Gateway Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/136956397.jpg?k=d46eccc412bc03e7ecee0288fdf77a6a4f28ebde1a734fa8df98ff7bd81a76c7&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Studio Suite - Disability Access with Roll In Shower",
+                "pricing_details": [
+                    {
+                        "price": "US$94",
+                        "max_persons": 2,
+                        "raw_price": 94,
+                        "raw_price_tax": 17,
+                        "total_price": 111
+                    }
+                ]
+            },
+            {
+                "room_type": "Studio Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$94",
+                        "max_persons": 2,
+                        "raw_price": 94,
+                        "raw_price_tax": 17,
+                        "total_price": 111
+                    }
+                ]
+            },
+            {
+                "room_type": "Executive Suite - Disability Access",
+                "pricing_details": [
+                    {
+                        "price": "US$118",
+                        "max_persons": 2,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    }
+                ]
+            },
+            {
+                "room_type": "Executive Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$118",
+                        "max_persons": 2,
+                        "raw_price": 118,
+                        "raw_price_tax": 20,
+                        "total_price": 138
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe King Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    }
+                ]
+            },
+            {
+                "room_type": "Family Suite with Balcony",
+                "pricing_details": [
+                    {
+                        "price": "US$134",
+                        "max_persons": 2,
+                        "raw_price": 134,
+                        "raw_price_tax": 22,
+                        "total_price": 156
+                    }
+                ]
+            },
+            {
+                "room_type": "Boardroom Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$141",
+                        "max_persons": 2,
+                        "raw_price": 141,
+                        "raw_price_tax": 24,
+                        "total_price": 165
+                    }
+                ]
+            },
+            {
+                "room_type": "Suite with Balcony",
+                "pricing_details": [
+                    {
+                        "price": "US$181",
+                        "max_persons": 2,
+                        "raw_price": 181,
+                        "raw_price_tax": 29,
+                        "total_price": 210
+                    }
+                ]
+            },
+            {
+                "room_type": "Grand Suite",
+                "pricing_details": [
+                    {
+                        "price": "US$165",
+                        "max_persons": 4,
+                        "raw_price": 165,
+                        "raw_price_tax": 27,
+                        "total_price": 192
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 94
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/sonesta-select-sf-airport-oyster-point-waterfront.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=18100016_298312948_2_2_0&highlighted_blocks=18100016_298312948_2_2_0&matching_block_id=18100016_298312948_2_2_0&sr_pri_blocks=18100016_298312948_2_2_0__11475&from=searchresults&selected_currency=USD",
+        "hotel_name": "Sonesta Select San Francisco Airport Oyster Point Waterfront",
+        "hotel_id": "181000",
+        "latitude": "37.6662339",
+        "longitude": "-122.3945604",
+        "address": "1300 Veterans Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518719548.jpg?k=73c73f50053ea0767303b6c448829f0a61151b88ab900cdfc5295ab822e3395e&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Mobility Accessible Guestroom King Tub",
+                "pricing_details": [
+                    {
+                        "price": "US$115",
+                        "max_persons": 2,
+                        "raw_price": 115,
+                        "raw_price_tax": 20,
+                        "total_price": 135
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 2,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            },
+            {
+                "room_type": "Guestroom King",
+                "pricing_details": [
+                    {
+                        "price": "US$115",
+                        "max_persons": 2,
+                        "raw_price": 115,
+                        "raw_price_tax": 20,
+                        "total_price": 135
+                    },
+                    {
+                        "price": "US$125",
+                        "max_persons": 3,
+                        "raw_price": 125,
+                        "raw_price_tax": 21,
+                        "total_price": 146
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 3,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            },
+            {
+                "room_type": "Water View Guestroom Two Queens",
+                "pricing_details": [
+                    {
+                        "price": "US$123",
+                        "max_persons": 2,
+                        "raw_price": 123,
+                        "raw_price_tax": 21,
+                        "total_price": 144
+                    },
+                    {
+                        "price": "US$133",
+                        "max_persons": 3,
+                        "raw_price": 133,
+                        "raw_price_tax": 22,
+                        "total_price": 155
+                    },
+                    {
+                        "price": "US$143",
+                        "max_persons": 4,
+                        "raw_price": 143,
+                        "raw_price_tax": 24,
+                        "total_price": 167
+                    },
+                    {
+                        "price": "US$155",
+                        "max_persons": 4,
+                        "raw_price": 155,
+                        "raw_price_tax": 26,
+                        "total_price": 181
+                    }
+                ]
+            },
+            {
+                "room_type": "Hearing Accessible Guestroom King",
+                "pricing_details": [
+                    {
+                        "price": "US$115",
+                        "max_persons": 2,
+                        "raw_price": 115,
+                        "raw_price_tax": 20,
+                        "total_price": 135
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 2,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            },
+            {
+                "room_type": "Mobility Accessible Guestroom King Roll-In Shower",
+                "pricing_details": [
+                    {
+                        "price": "US$115",
+                        "max_persons": 2,
+                        "raw_price": 115,
+                        "raw_price_tax": 20,
+                        "total_price": 135
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 2,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            },
+            {
+                "room_type": "Guestroom Two Queens",
+                "pricing_details": [
+                    {
+                        "price": "US$115",
+                        "max_persons": 2,
+                        "raw_price": 115,
+                        "raw_price_tax": 20,
+                        "total_price": 135
+                    },
+                    {
+                        "price": "US$125",
+                        "max_persons": 3,
+                        "raw_price": 125,
+                        "raw_price_tax": 21,
+                        "total_price": 146
+                    },
+                    {
+                        "price": "US$135",
+                        "max_persons": 4,
+                        "raw_price": 135,
+                        "raw_price_tax": 23,
+                        "total_price": 158
+                    },
+                    {
+                        "price": "US$145",
+                        "max_persons": 4,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            },
+            {
+                "room_type": "Hearing Accessible Water View Guestroom King",
+                "pricing_details": [
+                    {
+                        "price": "US$123",
+                        "max_persons": 2,
+                        "raw_price": 123,
+                        "raw_price_tax": 21,
+                        "total_price": 144
+                    },
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 26,
+                        "total_price": 181
+                    }
+                ]
+            },
+            {
+                "room_type": "Water View Guestroom King",
+                "pricing_details": [
+                    {
+                        "price": "US$123",
+                        "max_persons": 2,
+                        "raw_price": 123,
+                        "raw_price_tax": 21,
+                        "total_price": 144
+                    },
+                    {
+                        "price": "US$155",
+                        "max_persons": 2,
+                        "raw_price": 155,
+                        "raw_price_tax": 26,
+                        "total_price": 181
+                    }
+                ]
+            },
+            {
+                "room_type": "Mobility Accessible Executive Suite King Roll-In shower",
+                "pricing_details": [
+                    {
+                        "price": "US$140",
+                        "max_persons": 2,
+                        "raw_price": 140,
+                        "raw_price_tax": 23,
+                        "total_price": 163
+                    },
+                    {
+                        "price": "US$150",
+                        "max_persons": 3,
+                        "raw_price": 150,
+                        "raw_price_tax": 25,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 3,
+                        "raw_price": 175,
+                        "raw_price_tax": 29,
+                        "total_price": 204
+                    }
+                ]
+            },
+            {
+                "room_type": "Executive Suite King",
+                "pricing_details": [
+                    {
+                        "price": "US$140",
+                        "max_persons": 2,
+                        "raw_price": 140,
+                        "raw_price_tax": 23,
+                        "total_price": 163
+                    },
+                    {
+                        "price": "US$175",
+                        "max_persons": 2,
+                        "raw_price": 175,
+                        "raw_price_tax": 29,
+                        "total_price": 204
+                    }
+                ]
+            },
+            {
+                "room_type": "Mobility Accessible One Bedroom Suite King Tub",
+                "pricing_details": [
+                    {
+                        "price": "US$157",
+                        "max_persons": 2,
+                        "raw_price": 157,
+                        "raw_price_tax": 26,
+                        "total_price": 183
+                    },
+                    {
+                        "price": "US$167",
+                        "max_persons": 3,
+                        "raw_price": 167,
+                        "raw_price_tax": 28,
+                        "total_price": 195
+                    },
+                    {
+                        "price": "US$195",
+                        "max_persons": 3,
+                        "raw_price": 195,
+                        "raw_price_tax": 32,
+                        "total_price": 227
+                    }
+                ]
+            },
+            {
+                "room_type": "One Bedroom Suite King",
+                "pricing_details": [
+                    {
+                        "price": "US$157",
+                        "max_persons": 2,
+                        "raw_price": 157,
+                        "raw_price_tax": 26,
+                        "total_price": 183
+                    },
+                    {
+                        "price": "US$167",
+                        "max_persons": 3,
+                        "raw_price": 167,
+                        "raw_price_tax": 28,
+                        "total_price": 195
+                    },
+                    {
+                        "price": "US$195",
+                        "max_persons": 3,
+                        "raw_price": 195,
+                        "raw_price_tax": 32,
+                        "total_price": 227
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 115
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/deluxe-inn-south-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=205025801_126939160_2_0_0&highlighted_blocks=205025801_126939160_2_0_0&matching_block_id=205025801_126939160_2_0_0&sr_pri_blocks=205025801_126939160_2_0_0__6440&from=searchresults&selected_currency=USD",
+        "hotel_name": "Deluxe Inn",
+        "hotel_id": "2050258",
+        "latitude": "37.6535122",
+        "longitude": "-122.4320983",
+        "address": "920 El Camino Real, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356674347.jpg?k=874738af4e7f22f96a1b535889240378515bbec31265d7eb72b6ef94b13e3e3d&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$70",
+                        "max_persons": 2,
+                        "raw_price": 70,
+                        "raw_price_tax": 13,
+                        "total_price": 83
+                    }
+                ]
+            },
+            {
+                "room_type": "Standard Twin Room",
+                "pricing_details": [
+                    {
+                        "price": "US$105",
+                        "max_persons": 2,
+                        "raw_price": 105,
+                        "raw_price_tax": 18,
+                        "total_price": 123
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 70
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/four-points-by-sheraton-and-suites.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=5898311_365703826_0_0_0&highlighted_blocks=5898311_365703826_0_0_0&matching_block_id=5898311_365703826_0_0_0&sr_pri_blocks=5898311_365703826_0_0_0__10900&from=searchresults&selected_currency=USD",
+        "hotel_name": "Four Points by Sheraton - San Francisco Airport",
+        "hotel_id": "58983",
+        "latitude": "37.6476026",
+        "longitude": "-122.4058807",
+        "address": "264 South Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463630192.jpg?k=3bf1f88485502d5ac4731f191a8af241e6e953c1c2970b876620dc12b7c67195&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Guest room, 1 Queen",
+                "pricing_details": [
+                    {
+                        "price": "US$109",
+                        "max_persons": 2,
+                        "raw_price": 109,
+                        "raw_price_tax": 19,
+                        "total_price": 128
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds and Adapted Tub - Mobility and Hearing Accessible",
+                "pricing_details": [
+                    {
+                        "price": "US$109",
+                        "max_persons": 2,
+                        "raw_price": 109,
+                        "raw_price_tax": 19,
+                        "total_price": 128
+                    }
+                ]
+            },
+            {
+                "room_type": "Junior Suite, 1 King, Alternate bed: sofa bed",
+                "pricing_details": [
+                    {
+                        "price": "US$119",
+                        "max_persons": 2,
+                        "raw_price": 119,
+                        "raw_price_tax": 20,
+                        "total_price": 139
+                    }
+                ]
+            },
+            {
+                "room_type": "Penthouse Suite, In Loft: 1 Queen, Alternate bed: sofa bed",
+                "pricing_details": [
+                    {
+                        "price": "US$139",
+                        "max_persons": 2,
+                        "raw_price": 139,
+                        "raw_price_tax": 23,
+                        "total_price": 162
+                    }
+                ]
+            },
+            {
+                "room_type": "Suite, In Loft: 1 King, Alternate bed: sofa bed",
+                "pricing_details": [
+                    {
+                        "price": "US$144",
+                        "max_persons": 2,
+                        "raw_price": 144,
+                        "raw_price_tax": 24,
+                        "total_price": 168
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 109
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/all-seasons-lodge.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2854501_205774340_0_0_0&highlighted_blocks=2854501_205774340_0_0_0&matching_block_id=2854501_205774340_0_0_0&sr_pri_blocks=2854501_205774340_0_0_0__8188&from=searchresults&selected_currency=USD",
+        "hotel_name": "All Seasons Lodge",
+        "hotel_id": "28545",
+        "latitude": "37.6522280",
+        "longitude": "-122.4315655",
+        "address": "800 El Camino Real, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/609801103.jpg?k=26324c3e77c2bd7bfd9b68a156b0ff619a3e1fd3ac5676e2f947b81392808270&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$89",
+                        "max_persons": 2,
+                        "raw_price": 89,
+                        "raw_price_tax": 16,
+                        "total_price": 105
+                    }
+                ]
+            },
+            {
+                "room_type": "Double Room with Two Double Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$140",
+                        "max_persons": 2,
+                        "raw_price": 140,
+                        "raw_price_tax": 24,
+                        "total_price": 164
+                    },
+                    {
+                        "price": "US$150",
+                        "max_persons": 3,
+                        "raw_price": 150,
+                        "raw_price_tax": 25,
+                        "total_price": 175
+                    },
+                    {
+                        "price": "US$160",
+                        "max_persons": 4,
+                        "raw_price": 160,
+                        "raw_price_tax": 26,
+                        "total_price": 186
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 89
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/airport-inn-south-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=30855001_200142895_0_0_0&highlighted_blocks=30855001_200142895_0_0_0&matching_block_id=30855001_200142895_0_0_0&sr_pri_blocks=30855001_200142895_0_0_0__10120&from=searchresults&selected_currency=USD",
+        "hotel_name": "Airport Inn",
+        "hotel_id": "308550",
+        "latitude": "37.6600721",
+        "longitude": "-122.4051552",
+        "address": "751 Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19953047.jpg?k=b57e66aa8ce4386b64f7b39dd04e3b00b619b2f6a16dc63a851b3d14d7c8344b&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 19,
+                        "total_price": 129
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds",
+                "pricing_details": [
+                    {
+                        "price": "US$145",
+                        "max_persons": 4,
+                        "raw_price": 145,
+                        "raw_price_tax": 24,
+                        "total_price": 169
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 110
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/days-inn-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=2644906_246079507_2_1_0&highlighted_blocks=2644906_246079507_2_1_0&matching_block_id=2644906_246079507_2_1_0&sr_pri_blocks=2644906_246079507_2_1_0__9972&from=searchresults&selected_currency=USD",
+        "hotel_name": "Days Inn by Wyndham San Francisco S/Oyster Point Airport",
+        "hotel_id": "26449",
+        "latitude": "37.6636410",
+        "longitude": "-122.4007790",
+        "address": "1113 Airport Boulevard, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/601534155.jpg?k=f8a56df784896eb5d0e022bf321af68edb1b15eb29aa1a333f42fbfbda980e58&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Queen Room - Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$100",
+                        "max_persons": 2,
+                        "raw_price": 100,
+                        "raw_price_tax": 19,
+                        "total_price": 119
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room - Disability Access/Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$100",
+                        "max_persons": 2,
+                        "raw_price": 100,
+                        "raw_price_tax": 19,
+                        "total_price": 119
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$100",
+                        "max_persons": 2,
+                        "raw_price": 100,
+                        "raw_price_tax": 19,
+                        "total_price": 119
+                    }
+                ]
+            },
+            {
+                "room_type": "Business Queen Room - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$105",
+                        "max_persons": 2,
+                        "raw_price": 105,
+                        "raw_price_tax": 19,
+                        "total_price": 124
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Two Queen Beds - Non-Smoking",
+                "pricing_details": [
+                    {
+                        "price": "US$110",
+                        "max_persons": 2,
+                        "raw_price": 110,
+                        "raw_price_tax": 20,
+                        "total_price": 130
+                    },
+                    {
+                        "price": "US$120",
+                        "max_persons": 3,
+                        "raw_price": 120,
+                        "raw_price_tax": 22,
+                        "total_price": 142
+                    },
+                    {
+                        "price": "US$130",
+                        "max_persons": 4,
+                        "raw_price": 130,
+                        "raw_price_tax": 23,
+                        "total_price": 153
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 100
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/royal-inn-south-san-francisco.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=53946101_353891880_2_0_0&highlighted_blocks=53946101_353891880_2_0_0&matching_block_id=53946101_353891880_2_0_0&sr_pri_blocks=53946101_353891880_2_0_0__7820&from=searchresults&selected_currency=USD",
+        "hotel_name": "Royal Inn",
+        "hotel_id": "539461",
+        "latitude": "37.6664829",
+        "longitude": "-122.4528442",
+        "address": "120 Hickey Boulevard , South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356707285.jpg?k=f9ac760a6545319947e59c3a999368e70d29be1278cdcaa37973e45058489a4b&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Deluxe King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$85",
+                        "max_persons": 2,
+                        "raw_price": 85,
+                        "raw_price_tax": 15,
+                        "total_price": 100
+                    }
+                ]
+            },
+            {
+                "room_type": "King Room",
+                "pricing_details": [
+                    {
+                        "price": "US$140",
+                        "max_persons": 2,
+                        "raw_price": 140,
+                        "raw_price_tax": 23,
+                        "total_price": 163
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 85
+    },
+    {
+        "source_url": "https://www.booking.com/hotel/us/cozy-vacation-home-in-miller.html?aid=304142&label=gen173bo-1DCAQoggJCDWNpdHlfMjAwMTYwOTdIMVgDaGyIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAgKoAgO4AovLj7sGwAIB0gIkY2IwOWRiYzktYjZmZC00NWVkLWEyNDgtOTVjM2NiZmYyMGMw2AIE4AIB&ucfs=1&arphpl=1&checkin=2024-12-19&checkout=2024-12-20&dest_id=20016097&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=3e4641c52138003b&srepoch=1734600076&all_sr_blocks=956893007_368549247_2_0_0&highlighted_blocks=956893007_368549247_2_0_0&matching_block_id=956893007_368549247_2_0_0&sr_pri_blocks=956893007_368549247_2_0_0__13124&from=searchresults&selected_currency=USD",
+        "hotel_name": "Cozy Affordable Private Rooms near Grand Ave Miller",
+        "hotel_id": "9568930",
+        "latitude": "37.6577402",
+        "longitude": "-122.4178531",
+        "address": "547 Miller Avenue, South San Francisco, CA 94080, United States of America",
+        "postal_code": "CA 94080",
+        "country": "USA",
+        "region": "California",
+        "images": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426073182.jpg?k=fc2dc8414298c3722dc2857a4cc93495a69ef771c41b4382fa0e554b8cd90c5a&o=",
+        "currency": "USD",
+        "room_details": [
+            {
+                "room_type": "Deluxe Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$131",
+                        "max_persons": 2,
+                        "raw_price": 131,
+                        "raw_price_tax": 23,
+                        "total_price": 154
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$131",
+                        "max_persons": 2,
+                        "raw_price": 131,
+                        "raw_price_tax": 23,
+                        "total_price": 154
+                    }
+                ]
+            },
+            {
+                "room_type": "Deluxe Queen Room",
+                "pricing_details": [
+                    {
+                        "price": "US$125",
+                        "max_persons": 1,
+                        "raw_price": 125,
+                        "raw_price_tax": 22,
+                        "total_price": 147
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Shared Bathroom",
+                "pricing_details": [
+                    {
+                        "price": "US$126",
+                        "max_persons": 1,
+                        "raw_price": 126,
+                        "raw_price_tax": 22,
+                        "total_price": 148
+                    }
+                ]
+            },
+            {
+                "room_type": "Queen Room with Shared Bathroom",
+                "pricing_details": [
+                    {
+                        "price": "US$128",
+                        "max_persons": 1,
+                        "raw_price": 128,
+                        "raw_price_tax": 22,
+                        "total_price": 150
+                    }
+                ]
+            }
+        ],
+        "lowest_price": 125
+    }
+]
